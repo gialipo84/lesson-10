@@ -1,1 +1,1 @@
-# lesson-10
+# less-10
